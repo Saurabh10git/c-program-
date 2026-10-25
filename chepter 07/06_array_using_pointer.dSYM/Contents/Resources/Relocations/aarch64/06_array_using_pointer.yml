@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/apple/Documents/c programing/chepter 07/06_array_using_pointer'
+relocations:     []
+...
